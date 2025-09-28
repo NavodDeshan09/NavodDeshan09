@@ -58,7 +58,7 @@
 
  🌱 I’m currently learning **.Net**
 
- ⚡ Fun fact **Call Me As Thedas**
+ ⚡ Fun fact **Call Me As Shaggy**
  
  🔄 Routine : **Eat - Sleep - Code - Repeat**
 
