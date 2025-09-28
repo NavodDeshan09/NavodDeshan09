@@ -107,33 +107,4 @@
 
 <br/>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="28px"> </picture> Github Stats
-
-### Check out my GitHub repositories:
-<div align="center">
-  <p>
-     <a href="https://github.com/Thedas-01/Portfolio-Website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedas-01&repo=Portfolio-Website&theme=tokyonight" alt="Portfolio-Website" />
-    </a>
-     <a href="https://github.com/Thedas-01/Salon-Mangement-Sytem">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedas-01&repo=Salon-Mangement-Sytem&theme=tokyonight" alt="Salon-Mangement-Sytem" />
-    </a>
-  </p>
-</div>
-
----
-
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture>Connect with me:
-<br>
-<p align="center">
-<a href="https://68d701bdf00e180cd2356852--thedasportfolio.netlify.app" target="blank"><img align="center" src="https://img.icons8.com/dusk/40/000000/internet--v1.png" alt="HridoyHazard" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/thedas-sri-harisha-328098198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thedas-sri-harisha-328098198/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/people/Thedas-Sri-Harisha/100074413705204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thedas sri harisha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thedas_sri_harisha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thedas-sri-harisha" height="30" width="40" /></a>
-<a href="https://github.com/Thedas-01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
-</p>
-<br>
-
----
 
