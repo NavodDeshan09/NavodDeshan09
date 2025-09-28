@@ -64,7 +64,7 @@
 
  📫 How to reach me **navoddeshan@gmail.com**
 
- 🌐 You can see my personal website through [here](navod-deshan-portfolio.vercel.app)
+ 🌐 You can see my personal website through [here](https://navod-deshan-portfolio.vercel.app/)
 
 <br>
 
