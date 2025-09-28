@@ -28,7 +28,7 @@
 </p>
 </br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thedas-01&label=Profile%20views&color=0e75b6&style=flat" alt="thedas-01" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NavodDeshan09&label=Profile%20views&color=0e75b6&style=flat" alt="thedas-01" /> </p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
