@@ -137,7 +137,3 @@
 
 ---
 
-<h3 align="left">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/Thedas"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thedas-01" /></a>
-</p><br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
